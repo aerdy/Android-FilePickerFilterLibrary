@@ -40,7 +40,7 @@ startActivityForResult(intent, idresult);
         }
     }
 ```
-# Android - FilePickerFilter Library
+# Screenshot
 
 <p align="center">
   <img src="https://aeroyid.files.wordpress.com/2017/03/photo_2017-03-01_19-55-38.jpg" width="200"/>
