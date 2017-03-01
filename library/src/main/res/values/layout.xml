@@ -1,0 +1,23 @@
+<resources>
+
+    \<style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/clrPrimaryLib</item>
+        <item name="colorPrimaryDark">@color/clrPrimaryDrakLib</item>
+        <item name="colorAccent">@color/clrAccentLib</item>
+        <item name="android:textColorPrimary">@color/clrAccentLib</item>
+        <item name="android:textColorSecondary">@android:color/darker_gray</item>
+        <item name="android:textColorHint">@android:color/white</item>
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:displayOptions">disableHome</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>
